@@ -1,0 +1,12 @@
+{
+  "failed": [],
+  "passed": [
+    {
+      "describe": "call/1",
+      "file": "c:/Users/thais/vscode-projects/list_filter/test/list_filter_test.exs",
+      "line": 5,
+      "module": "Elixir.ListFilterTest",
+      "test": "test call/1 returns how many strings with odd numeric values in list"
+    }
+  ]
+}
